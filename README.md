@@ -1,2 +1,3 @@
 # Writeup-OverTheWire-Bandit
-Write up ovverthewire -> bandit
+- Kategori : Bandit
+- Level 1 - 21
